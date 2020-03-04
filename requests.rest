@@ -1,0 +1,10 @@
+POST http://localhost:3001/user/register
+
+Content-Type: application/json
+{
+        "first_name":"bajajrhs",
+        "last_name":"kumar",
+        "email_id":"abc@mhnbsd.com",
+        "phone_no":"2345455",
+        "password_text":"er3434"
+}
